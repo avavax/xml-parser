@@ -1,0 +1,9 @@
+{
+    "name": "ilya/autobase",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./"
+        }
+    },
+    "require": {}
+}
